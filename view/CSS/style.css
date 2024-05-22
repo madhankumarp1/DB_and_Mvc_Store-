@@ -23,8 +23,8 @@ body, h3, button {
 }
 
 .main_div_0_sub {
-    margin-right: 20px;
-    display: flex;
+  margin-left: 7em;
+      display: flex;
     justify-content: center;
     align-items: center;
     width: 100%;
@@ -88,6 +88,8 @@ body, h3, button {
 
 .btn button:hover {
     background-color: #ff8c00;
+    color: black;
+
 }
 
 .letft_div {

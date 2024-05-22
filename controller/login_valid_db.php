@@ -45,6 +45,6 @@ $conn->close();
 
 
 if(isset($error)) {
-    echo 'Error: ' . $error;
+    echo "<script>alert('Error: " .($error) . "'); window.location.href = '../view/login.html';</script>";
 }
 ?>
